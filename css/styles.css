@@ -1,0 +1,14 @@
+#home{
+    background-image: url(../images/burger-background.jpg);
+    background-blend-mode: overlay;
+    min-height: 550px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.btn:hover {
+    color: white;
+}
+
